@@ -1,10 +1,4 @@
-"Table A1 - Number of households by initial assessment of homelessness circumstances and needs
-England, 2021-22",,,,,,
-,,"Total number of households assessed1,2",Total households assessed as owed a duty,,,
-,,"Total initial assessments1,2",Total owed a prevention or relief duty,"Number of households
- in area4 (000s)","Households assessed as threatened with homelessness
-per (000s)","Households assessed as homeless
-per (000s)"
+id,local authority,"Total number of households assessed1,2",Total households assessed as owed a duty,Number of households in area (000s),Households assessed as threatened with homelessness per (000s),Households assessed as homeless per (000s)
 E92000001,ENGLAND,"290,180","278,110","23,868.50",5.59,6.06
 E12000007,London,"54,550","51,930","3,597.63",6.53,7.91
 -,Rest of England,"235,630","226,180","20,270.87",5.42,5.73
